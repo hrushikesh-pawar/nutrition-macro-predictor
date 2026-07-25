@@ -24,11 +24,11 @@ combines both.
   for calorie-controlled diets
 
 ## Tech Stack
-Python | Pandas | Matplotlib | SQL | Jupyter Notebook
+Python | SQL | Pandas | Matplotlib | Jupyter Notebook
 
 ## Dataset
 - Western nutrition data: 335 foods (Kaggle)
-- Indian food nutrition: 1,014 dishes (Kaggle — batthulavinay)
+- Indian food nutrition: 1,014 dishes (Kaggle)
 - Combined: 1,274 rows after cleaning
 
 ## Status
