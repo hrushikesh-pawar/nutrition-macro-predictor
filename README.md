@@ -24,7 +24,7 @@ combines both.
   for calorie-controlled diets
 
 ## Tech Stack
-Python | Pandas | Matplotlib | Jupyter Notebook
+Python | Pandas | Matplotlib | SQL | Jupyter Notebook
 
 ## Dataset
 - Western nutrition data: 335 foods (Kaggle)
