@@ -1,5 +1,3 @@
----
-
 ## Duplicate Record Investigation (Step 1 Completed)
 
 Duplicate profiling was performed in SQLite across `Foods` / `Foods_cleaned` at two levels:
